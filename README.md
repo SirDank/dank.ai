@@ -19,7 +19,7 @@
 
 - make sure you type the language correctly!
 
-<p align="center"><img width="659" alt="3" src="https://user-images.githubusercontent.com/52797753/150730752-2ad901af-087c-4417-ac22-5787175bdd9e.png"></p>
+<p align="center"><img width="659" alt="3" src="https://user-images.githubusercontent.com/52797753/150731619-0041a4f7-d71f-497f-bbed-c363a9218e30.png"></p>
 
 - now the fun part, optionally you can train the bot with whatsapp chat, exported from your mobile phone (without media)
 
@@ -31,4 +31,4 @@
 
 - thats it! you can start the bot now and enjoy fun responses to your inputs based on the trained data.
 
-<p align="center"><img width="472" alt="6" src="https://user-images.githubusercontent.com/52797753/150730782-0820da9b-2f56-4a26-97df-d11eddc0312a.png"></p>
+<p align="center"><img width="472" alt="6" src="https://user-images.githubusercontent.com/52797753/150731676-d9067e8f-12f2-4ade-820f-1b98964b2c61.png"></p>
