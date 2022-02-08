@@ -106,10 +106,10 @@ ______  _______ __   _ _     _   _______ _____
 
                 cls()
                 print(clr("\n  > On your phone, go to any chat/group, click export chat without media",1))
-                print(clr("\n  > Transfer txt file to PC and place anywhere",1))
+                print(clr("\n  > Transfer txt file to your PC and place it anywhere",1))
                 print(clr("\n  > Rename the txt file to something simple, remove emojis from file name",1))
                 print(clr("\n  > Drag and drop the txt file here and hit [ENTER]...",1))
-                whatsapp_chat = input(clr("\n  > Location: ",1))
+                whatsapp_chat = input(clr("\n  > Location: ",1)).replace('"','')
                 whatsapp_chat = open(whatsapp_chat,"r",encoding="utf8").read().splitlines()
                 
                 print(clr("\n  > Cleaning...",1)) # whatsapp chat cleanup

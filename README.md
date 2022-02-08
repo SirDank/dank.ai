@@ -4,10 +4,11 @@
 - download this repo from > https://github.com/SirDankenstien/dank.ai/archive/refs/heads/main.zip
 - extract folder anywhere
 - run setup.cmd
+- go to C:\Users\YOUR_USERNAME\AppData\Roaming\Python\YOUR_PYTHON_VERSION\site-packages\sqlalchemy\util\compat.py and replace "time.clock" with "time.time"
+- if you are on py 3.10 or above, go to C:\Users\YOUR_USERNAME\AppData\Roaming\Python\YOUR_PYTHON_VERSION\site-packages\yaml\constructor.py and replace "collections.Hashable" with "collections.abc.Hashable"
+- make sure you have internet and then run start.cmd
 
 # Usage:
-
-- run start.cmd
 
 - on running the script, a subfolder will be created called "dank.ai" this will hold all the data used by the script. If you would like to reset the chatbot, simply delete this folder
 
