@@ -1,7 +1,7 @@
 # Setup:
 
 - download and install python
-- download this repo from > https://github.com/SirDankenstien/dank.ai/archive/refs/heads/main.zip
+- download this repo from > https://github.com/SirDank/dank.ai/archive/refs/heads/main.zip
 - extract folder anywhere
 - run setup.cmd
 - go to C:\Users\YOUR_USERNAME\AppData\Roaming\Python\YOUR_PYTHON_VERSION\site-packages\sqlalchemy\util\compat.py and replace "time.clock" with "time.time"
